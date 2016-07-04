@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Crimson Text';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Crimson Text'), local('CrimsonText-Roman'), url(https://themes.googleusercontent.com/static/fonts/crimsontext/v3/3IFMwfRa07i-auYR-B-zNXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(https://themes.googleusercontent.com/static/fonts/roboto/v9/vzIUHo9z-oJ4WgkpPOtg1_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(https://themes.googleusercontent.com/static/fonts/roboto/v9/Hgo13k-tfSpn0qi1SFdUfT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+
+#header {
+padding: 5rem 0;
+color: #ffe;
+background: #0a53c7 url(./154640125_900b749340_b.jpg) no-repeat;
+background-size: cover;
+}
+
+#theSignup {
+text-align: center;
+}
+
+figure.video { padding-top: 2rem;}
+.cta { margin: 2rem;}
+.timeline li li:before, .timeline li li:after {display: none;}
+.timeline li li { padding-left: 0px; padding-bottom: 0px;}
