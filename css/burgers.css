@@ -1,0 +1,15 @@
+body { font-family: 'Oxygen', sans-serif; font-size: 18px; }
+.content {max-width: 24rem; margin: 0px auto; padding: 0 0.5rem;}
+.fa { position: absolute; left: -4rem; }
+.fa-stack {position: absolute; }
+.logo { display: block; position: relative; left: 0; }
+.container { position: relative; margin-left: 5rem; margin-right: 0.5rem;}
+.logo { width: 100%; }
+.invert  { background: #000; color: #e3e3e3; padding: 1rem 0; margin: 1rem 0;}
+.cta { display: block; margin: 2rem auto; text-align: center;background: #3498db; background-image: -webkit-linear-gradient(top, #3498db, #2980b9); background-image: -moz-linear-gradient(top, #3498db, #2980b9); background-image: -ms-linear-gradient(top, #3498db, #2980b9); background-image: -o-linear-gradient(top, #3498db, #2980b9); background-image: linear-gradient(to bottom, #3498db, #2980b9); -webkit-border-radius: 28; -moz-border-radius: 28; border-radius: 28px; font-family: Arial; color: #ffffff; font-size: 20px; padding: 10px 20px 10px 20px; text-decoration: none; }
+
+.cta:hover { background: #3cb0fd; background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db); background-image: -moz-linear-gradient(top, #3cb0fd, #3498db); background-image: -ms-linear-gradient(top, #3cb0fd, #3498db); background-image: -o-linear-gradient(top, #3cb0fd, #3498db); background-image: linear-gradient(to bottom, #3cb0fd, #3498db); text-decoration: none; }
+
+footer img { width: 6rem; padding: 1rem;}
+
+iframe  {max-width: 100%; height: auto; margin: 2rem 0;}
